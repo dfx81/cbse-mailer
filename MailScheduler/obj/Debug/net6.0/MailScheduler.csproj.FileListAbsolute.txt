@@ -1,0 +1,12 @@
+D:\Programming\C#\Mailer\MailScheduler\obj\Debug\net6.0\MailScheduler.csproj.AssemblyReference.cache
+D:\Programming\C#\Mailer\MailScheduler\obj\Debug\net6.0\MailScheduler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Mailer\MailScheduler\obj\Debug\net6.0\MailScheduler.AssemblyInfoInputs.cache
+D:\Programming\C#\Mailer\MailScheduler\obj\Debug\net6.0\MailScheduler.AssemblyInfo.cs
+D:\Programming\C#\Mailer\MailScheduler\obj\Debug\net6.0\MailScheduler.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Mailer\MailScheduler\bin\Debug\net6.0\MailScheduler.deps.json
+D:\Programming\C#\Mailer\MailScheduler\bin\Debug\net6.0\MailScheduler.dll
+D:\Programming\C#\Mailer\MailScheduler\bin\Debug\net6.0\MailScheduler.pdb
+D:\Programming\C#\Mailer\MailScheduler\obj\Debug\net6.0\MailScheduler.dll
+D:\Programming\C#\Mailer\MailScheduler\obj\Debug\net6.0\refint\MailScheduler.dll
+D:\Programming\C#\Mailer\MailScheduler\obj\Debug\net6.0\MailScheduler.pdb
+D:\Programming\C#\Mailer\MailScheduler\obj\Debug\net6.0\ref\MailScheduler.dll

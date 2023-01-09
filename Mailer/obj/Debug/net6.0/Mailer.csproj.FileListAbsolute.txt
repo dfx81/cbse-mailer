@@ -1,0 +1,12 @@
+D:\Programming\C#\Mailer\Mailer\bin\Debug\net6.0\Mailer.deps.json
+D:\Programming\C#\Mailer\Mailer\bin\Debug\net6.0\Mailer.dll
+D:\Programming\C#\Mailer\Mailer\bin\Debug\net6.0\Mailer.pdb
+D:\Programming\C#\Mailer\Mailer\obj\Debug\net6.0\Mailer.csproj.AssemblyReference.cache
+D:\Programming\C#\Mailer\Mailer\obj\Debug\net6.0\Mailer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Mailer\Mailer\obj\Debug\net6.0\Mailer.AssemblyInfoInputs.cache
+D:\Programming\C#\Mailer\Mailer\obj\Debug\net6.0\Mailer.AssemblyInfo.cs
+D:\Programming\C#\Mailer\Mailer\obj\Debug\net6.0\Mailer.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Mailer\Mailer\obj\Debug\net6.0\Mailer.dll
+D:\Programming\C#\Mailer\Mailer\obj\Debug\net6.0\refint\Mailer.dll
+D:\Programming\C#\Mailer\Mailer\obj\Debug\net6.0\Mailer.pdb
+D:\Programming\C#\Mailer\Mailer\obj\Debug\net6.0\ref\Mailer.dll
