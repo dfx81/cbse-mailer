@@ -17,8 +17,8 @@ class Program
             Console.WriteLine(
                 "ERROR -1: Insufficient Arguments.\n\n" +
                 "USAGE:\n" +
-                "$ dotnet run --project Test/Test.csproj -- <email address> <email password>\n" +
-                "$ dotnet run --project Test/Test.csproj -- <smtp address> <smtp port> <email address> <email password>"
+                "$ Test.exe <email address> <email password>\n" +
+                "$ Test.exe <smtp address> <smtp port> <email address> <email password>"
             );
 
             Environment.Exit(-1);

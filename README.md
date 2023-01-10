@@ -4,7 +4,7 @@ A simple mailer created for component-based development assignment. Created usin
 
 ## Components
 
-1. ```Mailer.dll``` - Provides methods to send simple emails under namespace ```MailUtils```
+1. ```Mailer.dll``` - Provides method to send simple emails under namespace ```MailUtils```
 2. ```MailScheduler.dll``` - Provides method to create a mailing list based on given data under namespace ```MailScheduler```
 
 ## Mailer.dll Interfaces:
@@ -84,6 +84,6 @@ The raw metadata string used are in the following format:
 
 ```
 USAGE:
-$ dotnet run --project Test/Test.csproj -- <email address> <email password>
-$ dotnet run --project Test/Test.csproj -- <smtp address> <smtp port> <email address> <email password>
+$ Test.exe <email address> <email password>
+$ Test.exe <smtp address> <smtp port> <email address> <email password>
 ```
