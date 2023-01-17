@@ -87,3 +87,9 @@ USAGE:
 $ Test.exe <email address> <email password>
 $ Test.exe <smtp address> <smtp port> <email address> <email password>
 ```
+
+## Using the Components:
+
+1. Download the components from the release page.
+2. Add a reference to the downloaded ```.dll``` files using the ```dotnet``` CLI.
+3. Use it in your project.
